@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cc3a9553.css",
+    "main.js": "./static/js/main.a34b6949.js",
+    "static/media/ethlogo.gif": "./static/media/ethlogo.d517cdac412be7864b97.gif",
+    "static/media/etherum.png": "./static/media/etherum.628f765f05b74595f06a.png",
+    "index.html": "./index.html",
+    "main.cc3a9553.css.map": "./static/css/main.cc3a9553.css.map",
+    "main.a34b6949.js.map": "./static/js/main.a34b6949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc3a9553.css",
+    "static/js/main.a34b6949.js"
+  ]
+}
